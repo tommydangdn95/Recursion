@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrintTheFirstN", "PrintTheF
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "printNToOne", "printNToOne\printNToOne.csproj", "{CC1BEDFD-9BD9-411D-AB05-724779870481}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumTheFirstN", "SumTheFirstN\SumTheFirstN.csproj", "{3DFFE392-AB37-4B39-A161-B2B3F91FDF10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumTheFirstN", "SumTheFirstN\SumTheFirstN.csproj", "{3DFFE392-AB37-4B39-A161-B2B3F91FDF10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayIndividualDigits", "DisplayIndividualDigits\DisplayIndividualDigits.csproj", "{2F47EF6D-11CF-4C34-A1D8-CFC8705A58F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,6 +45,10 @@ Global
 		{3DFFE392-AB37-4B39-A161-B2B3F91FDF10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DFFE392-AB37-4B39-A161-B2B3F91FDF10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DFFE392-AB37-4B39-A161-B2B3F91FDF10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F47EF6D-11CF-4C34-A1D8-CFC8705A58F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F47EF6D-11CF-4C34-A1D8-CFC8705A58F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F47EF6D-11CF-4C34-A1D8-CFC8705A58F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F47EF6D-11CF-4C34-A1D8-CFC8705A58F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -53,6 +59,7 @@ Global
 		{70720375-E5B1-4F15-B069-2503A9574AAD} = {74B806B3-FEB8-48CB-9FE7-01C31ED7D41C}
 		{CC1BEDFD-9BD9-411D-AB05-724779870481} = {74B806B3-FEB8-48CB-9FE7-01C31ED7D41C}
 		{3DFFE392-AB37-4B39-A161-B2B3F91FDF10} = {74B806B3-FEB8-48CB-9FE7-01C31ED7D41C}
+		{2F47EF6D-11CF-4C34-A1D8-CFC8705A58F1} = {74B806B3-FEB8-48CB-9FE7-01C31ED7D41C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D34DCDC0-F6A9-487C-8A9D-BF41F5D3920B}
